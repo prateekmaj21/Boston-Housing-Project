@@ -1,6 +1,8 @@
-Boston Housing Data Project
+# Boston Housing Data Project
 
-Data Columns
+![Image](https://github.com/prateekmaj21/Boston-Housing-Project/blob/master/image.jpg)
+
+## Data Columns
 
 CRIM: per capita crime rate by town
 
